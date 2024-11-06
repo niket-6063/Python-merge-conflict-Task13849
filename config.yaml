@@ -1,1 +1,5 @@
+HEAD<<<<<<< 
 setting: 'Develop branch setting333'
+=======
+setting: 'Feature branch setting3333'
+>>>>>>> feature-branch
